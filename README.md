@@ -4,6 +4,4 @@ Feito no início da minha jornada no front-end, através do curso de Desenvolvim
 
 Cosntruído com HTML e CSS.
 
-👉 [Demo do projeto](https://deborataveiraa.github.io/projeto-noticias-cidade/)
-
 ![Imagem do site](img/img-site.jpg)
